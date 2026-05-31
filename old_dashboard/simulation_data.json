@@ -1,0 +1,26 @@
+[
+  {
+    "drone_id": "DR-01",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "temperature": 104,
+    "confidence": 0.92,
+    "status": "SURVIVOR DETECTED"
+  },
+  {
+    "drone_id": "DR-02",
+    "latitude": 13.0674,
+    "longitude": 80.2376,
+    "temperature": 87,
+    "confidence": 0.81,
+    "status": "THERMAL SCAN ACTIVE"
+  },
+  {
+    "drone_id": "DR-03",
+    "latitude": 13.0521,
+    "longitude": 80.2508,
+    "temperature": 76,
+    "confidence": 0.74,
+    "status": "SEARCH OPERATION"
+  }
+]

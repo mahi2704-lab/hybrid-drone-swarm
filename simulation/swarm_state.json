@@ -1,0 +1,78 @@
+{
+    "active_drones": 5,
+    "survivors_detected": 1,
+    "blockchain_length": 5,
+    "mission_status": "ACTIVE",
+    "drones": [
+        {
+            "drone_id": "DRONE-1",
+            "latitude": 13.129251,
+            "longitude": 80.064974,
+            "thermal_temperature": 53,
+            "detected_disaster": "FIRE",
+            "cnn_confidence": 0.95,
+            "survivor_detected": 1,
+            "battery": 98,
+            "signal_strength": 81,
+            "cpu_usage": 43,
+            "edge_latency": 14.08,
+            "block_hash": "fc7b126d6398bdab3985887611427f55984af0b9c2b2d6bddeca33980aa6cc75"
+        },
+        {
+            "drone_id": "DRONE-2",
+            "latitude": 13.122164,
+            "longitude": 80.045908,
+            "thermal_temperature": 93,
+            "detected_disaster": "SAFE",
+            "cnn_confidence": 0.77,
+            "survivor_detected": 0,
+            "battery": 40,
+            "signal_strength": 58,
+            "cpu_usage": 71,
+            "edge_latency": 12.74,
+            "block_hash": "c1083b12ea0774a20e80460a4e11fe564e6d039781a53a4515d7eaded2a0cf22"
+        },
+        {
+            "drone_id": "DRONE-3",
+            "latitude": 13.065097,
+            "longitude": 80.076024,
+            "thermal_temperature": 84,
+            "detected_disaster": "SAFE",
+            "cnn_confidence": 0.8,
+            "survivor_detected": 0,
+            "battery": 55,
+            "signal_strength": 58,
+            "cpu_usage": 60,
+            "edge_latency": 2.36,
+            "block_hash": "2b3429d547569fab84853aa3f94649f3045492c0754e22e893955c51f76dd686"
+        },
+        {
+            "drone_id": "DRONE-4",
+            "latitude": 13.050124,
+            "longitude": 80.028442,
+            "thermal_temperature": 41,
+            "detected_disaster": "FLOOD",
+            "cnn_confidence": 0.88,
+            "survivor_detected": 0,
+            "battery": 52,
+            "signal_strength": 47,
+            "cpu_usage": 27,
+            "edge_latency": 10.53,
+            "block_hash": "f0b39a52c68a92887b9031c318c1e24d91f3be165a5b559b7a7290a4fa18723b"
+        },
+        {
+            "drone_id": "DRONE-5",
+            "latitude": 13.053051,
+            "longitude": 80.017848,
+            "thermal_temperature": 37,
+            "detected_disaster": "FLOOD",
+            "cnn_confidence": 0.93,
+            "survivor_detected": 0,
+            "battery": 52,
+            "signal_strength": 98,
+            "cpu_usage": 38,
+            "edge_latency": 7.29,
+            "block_hash": "3ceda5568ae07d005c6bf65e35c60ffab91651ff22d934cb966279f9b625c3f5"
+        }
+    ]
+}
