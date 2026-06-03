@@ -1,0 +1,13 @@
+# ML models
+*.h5
+*.keras
+
+# datasets
+dataset/
+
+# python cache
+__pycache__/
+
+# node
+node_modules/
+dist/

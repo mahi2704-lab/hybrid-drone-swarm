@@ -1,0 +1,32 @@
+{
+    "step": 195,
+    "active_drones": 3,
+    "survivors_detected": 2,
+    "status": "Running",
+    "drones": [
+        {
+            "drone_id": 1,
+            "temperature": 39.07,
+            "survivor_detected": true,
+            "confidence": 0.92,
+            "reason": "Thermal anomaly detected",
+            "block_hash": "c86de6e7efb44fc321159cbddc516e48365089f0fceb7577ebc4a24872af02f4"
+        },
+        {
+            "drone_id": 2,
+            "temperature": 33.59,
+            "survivor_detected": true,
+            "confidence": 0.8,
+            "reason": "Thermal anomaly detected",
+            "block_hash": "d495d00805da2de7cc27e5b2809fce3267c0df583894dbf4f7b9be93d4849474"
+        },
+        {
+            "drone_id": 3,
+            "temperature": 31.22,
+            "survivor_detected": false,
+            "confidence": 0.58,
+            "reason": "No thermal signature",
+            "block_hash": "f28d11ce3066dde860d1bb9d9c3780a187a024a247d3cce5e5a9337fb0d009bf"
+        }
+    ]
+}

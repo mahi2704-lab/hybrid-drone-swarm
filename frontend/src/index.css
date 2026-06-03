@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background: black;
+  font-family: Arial, sans-serif;
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+/* Leaflet map fix (VERY IMPORTANT) */
+.leaflet-container {
+  height: 420px !important;
+  width: 100%;
+}

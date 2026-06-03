@@ -1,0 +1,47 @@
+[
+  {
+    "drone_id": "DR-101",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "thermal": 78,
+    "confidence": 0.91,
+    "status": "ACTIVE",
+    "survivors": 1
+  },
+  {
+    "drone_id": "DR-102",
+    "latitude": 13.0843,
+    "longitude": 80.2718,
+    "thermal": 92,
+    "confidence": 0.87,
+    "status": "SEARCHING",
+    "survivors": 0
+  },
+  {
+    "drone_id": "DR-103",
+    "latitude": 13.0812,
+    "longitude": 80.2695,
+    "thermal": 104,
+    "confidence": 0.95,
+    "status": "RESCUE",
+    "survivors": 2
+  },
+  {
+    "drone_id": "DR-104",
+    "latitude": 13.0855,
+    "longitude": 80.2731,
+    "thermal": 66,
+    "confidence": 0.73,
+    "status": "PATROL",
+    "survivors": 0
+  },
+  {
+    "drone_id": "DR-105",
+    "latitude": 13.0801,
+    "longitude": 80.2684,
+    "thermal": 81,
+    "confidence": 0.82,
+    "status": "ACTIVE",
+    "survivors": 0
+  }
+]
